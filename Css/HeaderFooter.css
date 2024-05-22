@@ -1,0 +1,20 @@
+.header{
+    height: 50px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.listbar{
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+}
