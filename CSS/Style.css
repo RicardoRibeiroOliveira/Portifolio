@@ -1,0 +1,23 @@
+body{
+   background-color: #b39162;
+   font: normal 15pt Arial;
+}
+
+.Content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.Faunas{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 2px rgba(0, 0, 0, 0.334);
+}

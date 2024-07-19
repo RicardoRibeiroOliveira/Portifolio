@@ -1,0 +1,21 @@
+header{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+#TitleSite{
+    font-size: 28pt;
+    margin: auto;
+}
+
+footer{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+
+}
